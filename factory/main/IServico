@@ -1,0 +1,6 @@
+package factory.main;
+
+public interface IServico {
+    String executar();
+    String cancelar();
+}
